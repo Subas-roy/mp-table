@@ -1,0 +1,19 @@
+.table>:not(:first-child) {
+    border-top: none;
+}
+ .tblScroll {
+     overflow:auto;
+ }
+.yrDropdown {
+    float: left;
+    width: 120px !important;
+}
+.metalDropdown {
+    float: left;
+    width: 140px !important;
+    margin-right: 10px;
+}
+button{
+    float: left;
+    margin-left: 20px;
+}
